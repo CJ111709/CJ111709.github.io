@@ -1,4 +1,4 @@
-# CJ111709.github.io
+# _config.ym1
 theme:jeky11-theme-minimal
 title:happy
 description:games stuff
